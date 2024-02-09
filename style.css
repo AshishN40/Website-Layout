@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  .navbar {
+    background-color: yellow;
+    height: 100px;
+  }
+
+  body {
+    background-color: black;
+  }
+
+  .boxes:hover {
+    background-color: purple;
+  }
+
+  .boxes {
+    background-color: rgb(255, 221, 127);
+    height: 700px;
+    margin: 50px 80px;
+    text-align: center;
+  }
+
+  .box1:hover {
+    background-color: red;
+    border-radius: 9000px;
+  }
+
+  .box1 {
+    display: inline-block;
+    overflow: hidden;
+    margin: 30px;
+    height: 500px;
+    width: 500px;
+    background-color: blue;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  .box2:hover {
+    background-color: green;
+    border-radius: 9000px;
+  }
+
+  .box2 {
+    display: inline-block;
+    overflow: hidden;
+    margin: 30px;
+    height: 500px;
+    width: 500px;
+    background-color: rgb(255, 0, 170);
+    border-radius: 10px;
+
+    text-align: center;
+  }
+
+  .footerclass {
+    height: 100px;
+    background-color: chartreuse;
+  }
+
+  .text {
+    font-size: 28px;
+    border-radius: 25px;
+    margin: 10px 400px;
+    border: 4px solid rgb(255, 255, 255);
+    color: white;
+    text-align: center;
+  }
+
+  .navbar li {
+    list-style: None;
+    display: inline-block;
+    font-size: 28px;
+    font-weight: bolder;
+    margin: 20px;
+  }
+
+ .centre1
+ {
+    margin: auto;
+    padding: 200px;
+    font-weight: bolder;
+   
+
+ }
+
+ 
+ .centre2
+ {
+    margin: auto;
+    padding: 200px;
+    font-weight: bolder;
+  
+
+ }
